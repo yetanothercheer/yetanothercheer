@@ -1,7 +1,7 @@
 # yetanothercheer 🎸
 
 ## Active
-* **[whisper-lite](https://github.com/yetanothercheer/whisper-lite)**: Local media transcription via `whisper.cpp`.
+* **[whisper-lite](https://github.com/yetanothercheer/whisper-lite)**: Local media transcription.
 * **[Archive](https://github.com/yetanothercheer/Archive)**: Hourly Weibo trend tracking and snapshots.
 
 ## Archive
