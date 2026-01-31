@@ -1,6 +1,7 @@
 # yetanothercheer 🎸
 
 ## Active
+* **[chord.transcription](https://github.com/yetanothercheer/chord.transcription)**: Transcribe chords from a song
 * **[whisper-lite](https://github.com/yetanothercheer/whisper-lite)**: Local media transcription.
 * **[Archive](https://github.com/yetanothercheer/Archive)**: Hourly Weibo trend tracking and snapshots.
 
